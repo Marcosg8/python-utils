@@ -1,0 +1,10 @@
+nombre,puntos,tiempo_s
+pechitos,1000,58.00
+sofia,200,59.00
+ana,200,90.00
+maria,200,125.00
+juan,180,180.00
+juan,150,125.00
+pedro,120,45.00
+pepe,100,122.00
+lucas,95,95.50

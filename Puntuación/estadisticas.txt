@@ -1,0 +1,3 @@
+Total partidas: 9
+Total jugadores distintos: 8
+Media global de puntos: 249.44
